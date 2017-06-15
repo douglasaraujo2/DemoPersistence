@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DemoPersistence</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="txt_user">Usuário:</string>
+    <string name="txt_pass">Senha:</string>
+    <string name="txt_keep_connected">Continuar Conectado</string>
+    <string name="txt_login">Fazer login</string>
+</resources>
